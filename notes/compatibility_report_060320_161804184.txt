@@ -1,0 +1,3 @@
+字体 font_pixel 已转换为字体系列 Arial（Regular）
+GameMaker Studio 1 字体纹理已备份到 ${project_dir}\fonts\font_pixel\font_pixel.gms1.png
+已添加兼容性脚本 'texture/texture_set_interpolation.gml'
